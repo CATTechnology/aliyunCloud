@@ -1,7 +1,9 @@
 public class SolveConflict{
 
 	public static void main(String[] args){
-		System.out.println("Hello world");
+		String str = new String("hello world");
+		System.out.println(str);
+		
 	}
 
 }
