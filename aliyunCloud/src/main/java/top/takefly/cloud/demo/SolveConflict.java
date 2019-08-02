@@ -4,5 +4,5 @@ public class SolveConflict{
 		String str = new String("hello world");
 		System.out.println("Hello world");
 		System.out.println(str);
-
+	}
 }
